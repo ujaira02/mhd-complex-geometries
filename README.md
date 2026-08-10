@@ -323,7 +323,7 @@ ST40 vessels.
 ## Licensing
 
 The source code in this repository is released under the GPL-3.0 licence, set
-out in full in [`LICENsE`](LICENSE).
+out in full in [`LICENSE`](LICENSE).
 
 The dissertation text, figures, and other written material accompanying
 this repository are released under a Creative Commons Attribution 4.0
