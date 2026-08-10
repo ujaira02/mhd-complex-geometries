@@ -1420,10 +1420,7 @@ void display_readme(int width = 90)
 
     std::cout << "LICENSING:\n";
     std::cout << "  The source code is released under the GNU General Public License,\n";
-    std::cout << "  version 3 (GPLv3). See LICENSE for the full text.\n";
-    std::cout << "  The documentation (README, explanatory text) is released under the\n";
-    std::cout << "  Creative Commons Attribution 4.0 International License (CC BY 4.0).\n";
-    std::cout << "  See LICENCE-CC-BY for the full text.\n\n";
+    std::cout << "  version 3 (GPLv3). See LICENSE for the full text.\n\n";
 
     std::cout << "BUILDING:\n";
     std::cout << "  g++ -O3 -std=c++17 -Xpreprocessor -fopenmp \\\n";
