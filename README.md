@@ -63,7 +63,8 @@ directly from the command line for scripting and batch use.
 │   └── sdf.py                 Script to compute vessel signed distance functions
 ├── README.md
 ├── LICENCE-GPL3               Licence for the source code
-└── LICENCE-CC-BY              Licence for the dissertation text and figures
+├── LICENCE-CC-BY              Licence for the dissertation text and figuresce code
+└── Dissertation.pdf           Available upon request
 ```
 
 Each test lives in its own translation unit named after the test, for
