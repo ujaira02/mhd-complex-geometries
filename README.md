@@ -64,7 +64,7 @@ directly from the command line for scripting and batch use.
 ├── README.md
 ├── LICENCE-GPL3               Licence for the source code
 ├── LICENCE-CC-BY              Licence for the dissertation text and figuresce code
-└── Dissertation.pdf           Available upon request
+└── Dissertation.pdf           Not included in this repo, available upon request
 ```
 
 Each test lives in its own translation unit named after the test, for
